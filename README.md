@@ -2,7 +2,7 @@
 
 Fscan is a robust, decentralized blockchain explorer built with modern web technologies, offering enhanced features and hardened infrastructure compared to traditional explorers.
 
-## 🚀 Features
+##  Features
 
 ### Core Functionality
 - **Real-time Blockchain Data**: Live blocks, transactions, and network statistics
@@ -23,7 +23,7 @@ Fscan is a robust, decentralized blockchain explorer built with modern web techn
 - **Authentication**: Secure user accounts with Convex Auth
 - **Data Integrity**: Comprehensive validation and error handling
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 - **Frontend**: React 19, TypeScript, Tailwind CSS
 - **Backend**: Convex (real-time database and functions)
@@ -31,7 +31,7 @@ Fscan is a robust, decentralized blockchain explorer built with modern web techn
 - **Search**: Full-text search with advanced indexing
 - **API**: RESTful endpoints with automatic rate limiting
 
-## 📊 Data Models
+##  Data Models
 
 ### Blockchain Data
 - **Blocks**: Complete block information with gas metrics
@@ -45,7 +45,7 @@ Fscan is a robust, decentralized blockchain explorer built with modern web techn
 - **Annotations**: User-generated content and tagging system
 - **API Keys**: Secure API access with usage analytics
 
-## 🔧 API Endpoints
+##  API Endpoints
 
 ### Public API
 - `GET /api/v1/block/:number` - Get block by number
@@ -59,7 +59,7 @@ Fscan is a robust, decentralized blockchain explorer built with modern web techn
 ### Webhook Support
 - `POST /webhook/block` - Blockchain data ingestion
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -82,7 +82,7 @@ Fscan is a robust, decentralized blockchain explorer built with modern web techn
    npm run dev
    ```
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Set up the following environment variables in your Convex deployment:
 
@@ -90,44 +90,44 @@ Set up the following environment variables in your Convex deployment:
 - `WEBHOOK_SECRET` - Secret for validating blockchain webhooks
 - `API_RATE_LIMIT` - Default API rate limit per hour
 
-## 📈 Roadmap
+## Roadmap
 
-### Phase 1: Core Features ✅
+### Phase 1: Core Features 
 - Basic blockchain explorer functionality
 - Real-time data synchronization
 - Search and filtering capabilities
 
-### Phase 2: Enhanced Analytics 🚧
+### Phase 2: Enhanced Analytics 
 - Advanced charting and visualizations
 - DeFi protocol integration
 - MEV detection and analysis
 
-### Phase 3: Decentralization 📋
+### Phase 3: Decentralization 
 - IPFS integration for data redundancy
 - Distributed node network
 - Governance token and DAO structure
 
-### Phase 4: Advanced Features 📋
+### Phase 4: Advanced Features 
 - Smart contract interaction interface
 - Portfolio tracking and management
 - Cross-chain support
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Links
+##  Links
 
 - **Website**: https://fscan.io
 - **API Documentation**: https://docs.fscan.io
 - **GitHub**: https://github.com/yourusername/fscan
 - **Discord**: https://discord.gg/fscan
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with [Convex](https://convex.dev) for real-time backend infrastructure
 - Inspired by Etherscan's pioneering work in blockchain exploration
