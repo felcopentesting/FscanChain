@@ -122,10 +122,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Links
 
-- **Website**: https://fscan.io
-- **API Documentation**: https://docs.fscan.io
-- **GitHub**: https://github.com/yourusername/fscan
-- **Discord**: https://discord.gg/fscan
+- **Website**: TBA
+- **API Documentation**: TBA
+- **GitHub**: Current
+- **Discord**: TBA
 
 ##  Acknowledgments
 
