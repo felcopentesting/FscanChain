@@ -63,7 +63,7 @@ Fscan is a robust, decentralized blockchain explorer built with modern web techn
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fscan.git
+   git clone https://github.com/felcopentesting/FscanChain.git
    cd fscan
    ```
 
