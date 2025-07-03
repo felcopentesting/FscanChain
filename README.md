@@ -1,6 +1,6 @@
-# Fscan - Advanced Blockchain Explorer
+# FscanChain - Advanced Blockchain Explorer
 
-Fscan is a robust, decentralized blockchain explorer built with modern web technologies, offering enhanced features and hardened infrastructure compared to traditional explorers.
+FscanChain is a robust, decentralized blockchain explorer built with modern web technologies, offering enhanced features and hardened infrastructure compared to traditional explorers.
 
 ##  Features
 
